@@ -1,0 +1,51 @@
+
+.jumbotron{
+  background-image:url("back-5.jpg");
+  color:white;
+  background-size:cover;
+height:90vmin;
+}
+.display{
+  font-weight:330;
+  margin-block-start:5vmax;
+  font-size:5.2vmax;
+}
+.display-4{
+ font-size:5.2vmax; 
+}
+.link{
+color:black;
+}
+.text{
+  color:white;
+  font-weight:200;
+  font-size:6.5vmin;
+  background:black;
+}
+.card{
+  background:teal;
+}
+.foot{
+  position:absolute;
+  bottom:0;
+  width:100%;
+  heigth:60px;
+  line-height:60px;
+  background-color:black;
+}
+.container{
+  width:auto;
+  padding:0 15px;
+}
+html{
+  position:relative;
+  min-height:100%;
+}
+body{
+  margin-bottom:50px;
+}
+.card-deck{
+  width:100%;
+}
+
+
